@@ -17,3 +17,4 @@
 LogisticRegression
 DecisionTreeClassifier
 RandomForestClassifier
+CatBoostClassifier
